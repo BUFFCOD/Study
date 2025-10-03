@@ -32,7 +32,8 @@ history
 
 # Try Bash shortcuts (no command line):
 # Ctrl+R, Ctrl+A, Ctrl+E, Ctrl+U
-
+Alt+b  Move backward one word. 
+Alt+f : Move forward one word. 
 # Variables
 export MYNAME="LinuxWarrior"
 echo "Welcome, $MYNAME"
